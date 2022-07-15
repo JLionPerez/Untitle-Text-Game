@@ -1,0 +1,13 @@
+Brainstorm Bin:
+    + all mage system
+        - spells you can learn (unlimited spells to learn)
+        - mana
+        - health
+    + only spells
+        - 
+    + conjure up weapons
+        - dagger (can be dual wielded)
+        - sword
+        - bow
+    + set up camp to heal and restore status (bonus stat can occur)
+    + 
