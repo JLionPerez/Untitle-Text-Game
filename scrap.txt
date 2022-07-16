@@ -10,4 +10,16 @@ Brainstorm Bin:
         - sword
         - bow
     + set up camp to heal and restore status (bonus stat can occur)
-    + 
+        - little message about the (unique) scenery
+    + GAAAYYYYYYY
+        - have gay characters, won't hook up with characters if they're not into them
+        - few characters that connect with the player rather than a pool of lookalikes
+        - (style) are you? feminine, masculine, or androgynous
+    + story
+        - 
+
+Workflow:
+    1) Implement mechanics of player
+        a) player mechanics, make player class and what they can do
+    2) Develop spells
+    3) Either develop characters or the story itself
