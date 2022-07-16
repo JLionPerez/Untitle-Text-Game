@@ -21,5 +21,11 @@ Brainstorm Bin:
 Workflow:
     1) Implement mechanics of player
         a) player mechanics, make player class and what they can do
+            i) they can learn spells
+            ii) they can execute spells
+            iii) they can heal
+            iv) they can attack with spells
+            v) use defense spells
+            vi) 
     2) Develop spells
     3) Either develop characters or the story itself
