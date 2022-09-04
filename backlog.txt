@@ -1,0 +1,19 @@
+Brainstorm Bin:
+    + set up camp to heal and restore status (bonus stat can occur)
+        - little message about the (unique) scenery
+    + conjure up weapons
+        - dagger (can be dual wielded)
+        - sword
+        - bow
+    + GAAAYYYYYYY
+        - have gay characters, won't hook up with characters if they're not into them (dating will be implemented? maybe not, just want as part of identity somehow)
+        - few characters that connect with the player rather than a pool of lookalikes (would need to have extra stories for the characters might have to do it later)
+
+Workflow:
+    1) Implement mechanics of player
+        a) player mechanics, make player class and what they can do
+            v) use defense spells to block incoming attacks from enemies
+    2) Develop spells
+        d) use spells on environment also not just in battles
+            ex. using fire based spells to burn down vines blocking path
+    3) Either develop characters or the story itself

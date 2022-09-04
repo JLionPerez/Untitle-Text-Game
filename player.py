@@ -1,7 +1,8 @@
-from audioop import add
+from audioop import add #what's audioop?
 
 
 class Player:
+    #constructor -  default values
     def __init__(self, name, health, mana, style):
         self.name = name
         self.health = 20

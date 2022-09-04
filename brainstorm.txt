@@ -1,0 +1,41 @@
+Brainstorm Bin:
+    + all mage system
+        - spells you can learn (unlimited spells to learn)
+        - mana
+        - health
+    + only spells
+    + GAAAYYYYYYY
+        - have gay characters (they have their own pronouns at least in the beginning)
+        - (style) are you? feminine, masculine, or androgynous
+    + story
+        - have main characters to progress through the plot
+
+Workflow:
+    1) Implement mechanics of player
+        a) player mechanics, make player class and what they can do
+            i) they can learn spells
+            ii) they can execute spells
+            iii) they can heal
+            iv) they can attack with spells
+    2) Develop spells (need to add cost of mana/health)
+        a) attack spells
+            i) flame (aoe) adds burn effect for 3 turns
+            ii) frost (single) freezes enemy for 2 turns
+            iii) fireball (single) big mana cost + big damage + adds burn effect for 2 turns
+            iv) blizzard (aoe) big mana cost + adds frostbite increasing enemies' chance to miss for 3 turns
+            v) summon golem (single) stays continously beating up baddies for 3 turns
+            vi) healing poison (aoe) big mana cost + poisons enemies in turn heal the player for 2 turns
+        b) healing spells
+            i) fizzy liquid (damage) +5 health points
+            ii) zesty andidote (debuff + damage) tastes like lemonade, removes poison +15 health points
+            iii) holy water (debuff + damage + mana) very rare spell, only applies if player dies within 4 turns after applying this spell, prepares player for inevitable death beforehand, revives player + full mana + full health
+        c) mana restoring spells
+            i) fairy tears +15 mana points
+            ii) angels blessing +30 mana points
+    3) develop enemies
+        a) something that poisons player so player can use zesty andidote
+        b) knomes/goblins?
+    4) develop characters
+    5) develop setting
+        a) garden/caves?
+    6) develop story? maybe idk small brain lots of work we'll see
